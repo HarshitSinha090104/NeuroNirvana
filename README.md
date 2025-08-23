@@ -1,15 +1,48 @@
-NeuroNirvana
+# 🧠 NeuroNirvana  
 
-Empowering Mental Well-Being Through Technology
+✨ **Empowering mental well-being through technology** ✨  
 
+---
 
-About NeuroNirvana
+## 🌍 Who We Are  
+In an increasingly stressful world, **mental health awareness** is more critical than ever.  
+NeuroNirvana is a thoughtfully designed, user-centric platform that guides individuals through:  
+- 📝 **Self-assessment**  
+- 📖 **Knowledge-building**  
+- 🌱 **Practical self-care**  
 
-In today’s fast-paced world, mental health matters more than ever. NeuroNirvana is a user-friendly web platform designed to help people assess, understand, and improve their mental well-being. We aim to break the stigma around mental health by providing accessible self-assessment tools, educational content, and practical self-care resources — all in one place.
+Helping everyone take charge of their emotional wellness. 💙  
 
+---
 
-Project Objectives
+## 🎯 Our Mission  
+- ✅ Build **accessible self-assessment tools** for stress, mood, and anxiety  
+- ✅ Share **stigma-free educational content** on mental health conditions  
+- ✅ Provide **calming self-care strategies** like meditation & relaxation  
 
-Accessible Self-Assessment: Intuitive tools and questionnaires to evaluate stress, mood, anxiety, and overall mental health.
-Awareness & Education: Reliable information about mental health issues, coping strategies, and self-care tips.
-Promote Well-Being: Guided meditation, relaxation exercises, and stress management resources.
+---
+
+## 🌟 Highlights  
+
+- 💻 **Clean, Responsive Design** – Smooth on desktop & mobile  
+- 📑 **Condition-Based Pages** – ADHD, Anxiety, Depression, Bipolar Disorder & PTSD  
+- ⚡ **Fast & Lightweight** – Built with HTML, CSS, and JavaScript  
+- 🔗 **Helpful Resources** – Self-help guides and external trusted links  
+- 🚀 **Future-Ready** – Expandable to add quizzes, dark mode, blogs, and more  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** 🌐 HTML5, 🎨 CSS3, ⚙️ JavaScript  
+- **Styling:** 📐 Flexbox, 🔲 CSS Grid, 📱 Media Queries  
+- **Tools:** 🖥️ VS Code, 🐙 GitHub  
+- **Hosting:** 🌍 GitHub Pages / Static Hosting  
+
+---
+
+## 🚀 Getting Started  
+
+1. **Clone the repo** 🖇️  
+   ```bash
+   git clone https://github.com/HarshitSinha090104/NeuroNirvana.git
